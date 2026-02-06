@@ -1,4 +1,4 @@
-# 📈 Exploratory Data Analysis (EDA): K-Drama Dataset
+# 📈 Exploratory Data Analysis (EDA) & Data Visualization K-Drama Dataset
 
 > **Project Status:** *Completed (Mini Task 3)* ✅
 
