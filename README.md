@@ -10,6 +10,7 @@ Proyek ini bertujuan menjawab pertanyaan bisnis utama melalui data:
 2.  **Genre Trends:** Bagaimana pergeseran selera pasar dari tahun ke tahun?
 3.  **Content Preferences:** Tema/Tag apa yang paling disukai penonton (Rating > 9.0)?
 4.  **Duration Efficiency:** Apakah jumlah episode mempengaruhi kualitas rating?
+5.  **Market Shift:** Apakah terjadi pergeseran genre 3 tahun terakhir ini?
 
 ## 📂 Metodologi
 Analisis dilakukan dalam dua tahapan utama:
@@ -34,13 +35,14 @@ Berbeda dengan asumsi umum, genre **Historical** modern memiliki rata-rata duras
 > **"Friendship > Romance."**
 Pada drama dengan rating *Masterpiece* (>9.0), tag yang paling sering muncul adalah **'Best Friends'**, **'Strong Female Lead'**, dan **'Bromance'**. Penonton memberikan apresiasi lebih tinggi pada cerita yang menonjolkan hubungan persahabatan yang solid dibandingkan sekadar kisah cinta.
 
-### 4. Yearly Trend (Market Shift)
-> **"Kuantitas Naik, Kualitas Turun?"**
-Grafik tren tahunan menunjukkan adanya penurunan rata-rata rating yang signifikan pada periode **2023-2024** meskipun jumlah produksi drama meningkat. Hal ini mengindikasikan adanya *oversupply* konten yang tidak diimbangi dengan kualitas naskah yang kuat seperti pada era 2020-2021.
-
-### 5. Correlation Check
+### 4. Correlation Check
 > **"Durasi Tidak Menentukan Kualitas."**
 Dengan nilai korelasi **-0.07** (sangat lemah), terbukti tidak ada hubungan antara jumlah episode dengan rating. Drama pendek maupun panjang memiliki peluang sukses yang sama, bergantung sepenuhnya pada eksekusi cerita.
+
+### 5. Yearly Trend 
+> **"Tren Pergeseran Genre"**
+Grafik tren tahunan menunjukkan produksi genre Romance selalu lebih sedikit daripada Action dan Thriller pada tahun 2023-2024.
+
 
 ---
 
